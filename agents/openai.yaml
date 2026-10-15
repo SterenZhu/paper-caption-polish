@@ -1,0 +1,4 @@
+interface:
+  display_name: "论文图表标题优化"
+  short_description: "翻译与优化英文论文图题和表题，规范大小写、标点及 LaTeX 转义"
+  default_prompt: "使用 $paper-caption-polish 将我提供的中文描述或现有图表标题优化为规范、简洁的英文标题。"
