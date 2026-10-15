@@ -86,3 +86,7 @@ Effect of $\alpha_i$ on Accuracy under 10\% Label Noise
 本 Skill 专注于论文图题和表题的语言与格式处理。论文主标题、正文润色及图表绘制不在其范围内。标题优化以输入内容为依据，不添加未提供的实验结果、因果关系、优越性或统计显著性。
 
 完整规则见 [SKILL.md](SKILL.md)，Codex 界面配置见 [agents/openai.yaml](agents/openai.yaml)。
+
+## 参考与致谢
+
+本 Skill 的提示词参考了 [Leey21/awesome-ai-research-writing](https://github.com/Leey21/awesome-ai-research-writing) 项目中的提示词，感谢原作者的整理与分享。
